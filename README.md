@@ -1,4 +1,6 @@
-### Welcome to my profile! 👋
+### Welcome! 👋
+
+I'm a software engineer student that likes programming, Godot Engine, games, etc
 
 <!--
 **Lukaswbrr/lukaswbrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
