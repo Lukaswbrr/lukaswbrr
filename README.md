@@ -9,6 +9,7 @@ I'm a software engineer student that likes programming, art, Godot Engine, games
   - Go
   - React
   - Python
+  - How to make Obsidian plugins
 
 
 <!--
