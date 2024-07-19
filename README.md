@@ -4,6 +4,12 @@ I'm a software engineer student that likes programming, art, Godot Engine, games
 
 - I probably will upload more public projects in the future
 - I use Exercism for learning programming languages!
+- I'm currently interested in learning:
+  - C++
+  - Go
+  - React
+  - Python
+
 
 <!--
 **Lukaswbrr/lukaswbrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
