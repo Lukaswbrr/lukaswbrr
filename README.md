@@ -11,6 +11,7 @@ I'm a software engineer student that likes programming, art, Godot Engine, games
   - React
   - Python
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5169OJP)
 
 <!--
 **Lukaswbrr/lukaswbrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
