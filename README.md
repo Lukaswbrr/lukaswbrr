@@ -3,18 +3,19 @@
 I'm a software engineer student that likes programming, art, Godot Engine, games, etc
 
 - I probably will upload more public projects in the future
-- I use Exercism for learning programming languages!
+- I use [Exercism](https://exercism.org/profiles/Lukaswbrr) for learning programming languages (haven't been using it much recently)
 - I'm currently interested in learning:
-  - C 
   - C++
-  - Go
   - React
   - Python
+- Currently studying [freeCodeCamp's Responsible Web Design](https://www.freecodecamp.org/learn/)!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaswbrr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R5169OJP)
 
+>[!NOTE]
+>I'm currently looking for a Software Engineer, Software Development or Web Development internship! Feel free to contact me about it.
 
 <!--
 **Lukaswbrr/lukaswbrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
