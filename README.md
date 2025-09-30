@@ -2,7 +2,6 @@
 
 I'm a software engineer student that likes programming, art, Godot Engine, games, etc
 
-- I probably will upload more public projects in the future
 - I use [Exercism](https://exercism.org/profiles/Lukaswbrr) for learning programming languages (haven't been using it much recently)
 - I'm currently interested in learning:
   - Web Development
