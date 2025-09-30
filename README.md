@@ -5,10 +5,10 @@ I'm a software engineer student that likes programming, art, Godot Engine, games
 - I probably will upload more public projects in the future
 - I use [Exercism](https://exercism.org/profiles/Lukaswbrr) for learning programming languages (haven't been using it much recently)
 - I'm currently interested in learning:
-  - C++
+  - Web Development
+  - Software Development
   - React
   - Python
-- Currently studying [freeCodeCamp's Responsible Web Design](https://www.freecodecamp.org/learn/)!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukaswbrr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
